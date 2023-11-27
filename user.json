@@ -1,0 +1,15 @@
+{
+    "name": "Kyle",
+    "favouriteNumber": 5,
+    "isCoder": true,
+    "hobbies": [
+        "snowshoeing",
+        "reading"
+    ],
+    "friends": [
+        {
+            "name": "Joe",
+            "favouriteNumber": 8
+        }
+    ]
+}

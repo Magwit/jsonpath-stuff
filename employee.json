@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "first_name": "soumil",
+    "languages": [
+        "Python",
+        "AWS"
+    ],
+    "degree": [
+        {
+            "name": "Bachelor",
+            "school": "London School of Economics"
+        },
+        {
+            "name": "Master in Electical Engineering",
+            "school": "MIT"
+        }
+    ]
+}
